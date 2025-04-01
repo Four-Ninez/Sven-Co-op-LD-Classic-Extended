@@ -9,3 +9,9 @@ Recommended to use it with Definitive Classic Pack by VitorHunter (https://gameb
 If you're Server Operator or playing alone/with friends via P2P, also recommended to use with Classic Mode Deluxe by w00tguy (https://github.com/wootguy/ClassicModeDeluxe)
 
 Remember - **No HD** in this pack. Even models that initially was HD(ish) will get a downscaled-pixelated textures and simplified meshes.
+
+W.I.P.
+
+# Credits
+VitorHunter - For his Definitive Classic Pack (most of assets used from)
+Garompa - Some of original models
