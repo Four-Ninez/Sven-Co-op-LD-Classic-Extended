@@ -3,6 +3,7 @@ tbh, I love the Sven style (HD, etc), but sometimes I want back to the good old 
 # Sven Co-op Classic Models
 This project aims to replace the HD/SD/UD models, sounds, etc with LD analogues. Some I found on the internet (and fixed, ofc), some I grabbed from other mods, some I made myself by analogy with the original models. 
 The project itself is an analog of "Nostalgia NPCs" or "All Sven Hands" by Garompa, only here the models are vice versa - getting closer to the original Half-Life style than to the Sven Co-op/Half-Life SD Pack style
+
 Also, fixing the existing ones (fucked up animations, UV shit, etc)
 
 Recommended to use it with Definitive Classic Pack by VitorHunter (https://gamebanana.com/mods/167285)
