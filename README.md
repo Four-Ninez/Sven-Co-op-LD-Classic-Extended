@@ -17,6 +17,10 @@ You are also allowed to use this content however you want. I don't claim authors
 W.I.P.
 
 # Credits
+Four-Nines - Model edits, fix
+
 VitorHunter - For his Definitive Classic Pack (most of assets used from)
 
 Garompa - Some of original models
+
+Black Widow Games - They Hunger assets
