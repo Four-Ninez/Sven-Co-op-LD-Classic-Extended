@@ -12,6 +12,8 @@ If you're Server Operator or playing alone/with friends via P2P, also recommende
 
 Remember - **No HD** in this pack. Even models that initially was HD(ish) will get a downscaled-pixelated textures and simplified meshes.
 
+You are also allowed to use this content however you want. I don't claim authorship, as most of the models are just taken from different mods and old sven maps. I'm just reworking them.
+
 W.I.P.
 
 # Credits
