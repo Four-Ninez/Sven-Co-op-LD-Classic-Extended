@@ -31,4 +31,6 @@ W.I.P.
 
 **Garompa** - Some of original models
 
+**Extended Studios** - Some of assets
+
 **Black Widow Games** - They Hunger assets
