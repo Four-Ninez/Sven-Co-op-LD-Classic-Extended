@@ -27,8 +27,6 @@ W.I.P.
 
 **VitorHunter** - For his Definitive Classic Pack (most of assets used from)
 
-**Extended Studios** - Some of assets
-
 **Four-Nines** - Model edits, fix
 
 **Garompa** - Some of original models
